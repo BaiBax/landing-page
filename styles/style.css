@@ -1,0 +1,38 @@
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+.navlinks {
+    display: flex;
+    align-items: center;
+}
+.outline {
+    display: flex;
+    flex-direction: column;
+}
+.container1 {
+    background-color: #1F2937;
+    color: #f9faf8;
+    font-size: 48px extra-bold;
+}
+ul {
+    list-style-type: none;
+}
+.container3 {
+    background-color: silver;
+}
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+}
+.info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
